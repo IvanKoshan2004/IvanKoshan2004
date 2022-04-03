@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IvanKoshan2004
 - 👀 I’m interested in playing guitar and having fun time coding
-- 🌱 I’m currently learning C
 - Studying at a uni
 
 <!---
